@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: black;
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4012119.jpg);
+    background-repeat: repeat-x;
+    color:white;
+}
+img{
+    width: 200px;
+    height: 196px;
+    }
+#steve {
+    width: 300px;
+    height: 296px;
+}
+#dsword{
+    width: 300px;
+    height: 296px;
+}
+#wshield{
+    width: 300px;
+    height: 296px;
+    }
+#darmor{
+    width: 300px;
+    height: 296px;
+    }
