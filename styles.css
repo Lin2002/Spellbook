@@ -5,6 +5,10 @@ body {
     background-repeat: repeat-x;
     color:white;
 }
+h1{
+    color:gray;
+    font-size:70px;
+}
 img{
     width: 200px;
     height: 196px;
